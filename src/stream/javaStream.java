@@ -1,5 +1,8 @@
 package stream;
 
+import stream.models.Book;
+import stream.models.City;
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.regex.Pattern;

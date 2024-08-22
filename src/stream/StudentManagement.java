@@ -1,5 +1,7 @@
 package stream;
 
+import stream.models.Student;
+
 import java.util.stream.Collectors;
 
 public class StudentManagement {

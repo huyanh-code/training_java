@@ -1,4 +1,4 @@
-package stream;
+package stream.models;
 
 public class City {
     private int id;
